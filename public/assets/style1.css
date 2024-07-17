@@ -1,0 +1,54 @@
+*{
+    color: white;
+}
+body{
+    background-image: url('https://img.freepik.com/free-vector/orange-red-gradient-vector-background_53876-117273.jpg?w=1060&t=st=1696672076~exp=1696672676~hmac=0c9f071b064ca1c5d81d612b99509600a02fb8f09be1044bc1c3b7a908c5579e') ;
+   
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+.center-div{
+    padding-top: 10%;
+    
+}
+.btn.btn-success{
+    padding: 4em2em;
+}
+form{
+    padding: 0.3rem;
+}
+#login.title>span{
+   
+    font-size: 0.8em;
+}
+
+.logout{
+ 
+   border-radius: 4px;
+   margin-top: 10px;
+   font-size: 17px;
+  
+}
+
+.sign-out{
+    text-decoration: none;
+    border-radius: 5px;
+    padding-bottom: 2px;
+  
+}
+
+.sign-out:hover{
+    background-color: rgb(209, 226, 23);
+    box-shadow: 2px;
+  
+}
+.user{
+    margin-bottom: 50px;
+}
+.login-system{
+    display: inline-block;
+    padding-bottom: 3px;
+}
+
